@@ -1,0 +1,4 @@
+stationary_data:
+  bag_file: "/home/gowtham/lab3_ws/data/g_10_mins_data_1/g_10_mins_data_1.db3"  # Use the correct bag file name
+  topic: "/imu"  # Ensure this matches the topic name in your bag file
+
